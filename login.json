@@ -82,7 +82,7 @@
       "description": "afeaGFSAG",
       "priority": "High",
       "email": "raja.chowdaboina@desidea.com",
-      "status": "Open",
+      "status": "Cancelled",
       "created_by": "raja.chowdaboina@desidea.com",
       "created_date": "8/8/2024, 3:47:23 pm"
     },
@@ -115,9 +115,12 @@
       "description": "Issue On Processor",
       "priority": "High",
       "email": "manichandana.suriboina@desidea.com",
-      "status": "Open",
+      "status": "InProgress",
       "created_by": "manichandana.suriboina@desidea.com",
-      "created_date": "8/8/2024, 4:00:35 pm"
+      "created_date": "8/8/2024, 4:00:35 pm",
+      "resolved_by": "venkata.nakka@desidea.com",
+      "resolved_date": "2024-08-07",
+      "comment": "Status Changed"
     },
     {
       "id": "624291",
